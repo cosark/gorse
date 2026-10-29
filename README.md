@@ -62,6 +62,10 @@ For more information：
 - Explore [live demo](https://gitrec.gorse.io/), a recommender system for GitHub repositories
 - Discuss on [Discord](https://discord.gg/x6gAtNNkAE) or [GitHub Discussion](https://github.com/gorse-io/gorse/discussions)
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Gorse/)
+
 ## Architecture
 
 Gorse is a single-node training and distributed prediction recommender system. Gorse stores data in MySQL (MariaDB), MongoDB, or Postgres, with intermediate results cached in Redis, MySQL (MariaDB), MongoDB and Postgres.
